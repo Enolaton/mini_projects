@@ -22,7 +22,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔍 배경(Introduction: Analysis Background)
-- 2025년 들어서 보호무역주의가 전세계적으로 나타나는 만큼, 국제믈동량이 감소할 것으로 예상함. 이러한 물동량 하락이 해운 HMM 주가에 영향을 주었는 지, 이번 분석을 통해서 도출하고자 함
+- 2025년 들어서 보호무역주의가 전세계적으로 나타나는 만큼, 국제믈동량이 감소할 것으로 예상함. 이러한 물동량 하락이 해운사 HMM의 주가에 영향을 주었는 지, 이번 분석을 통해서 도출하고자 함
     - As protectionism appears worldwide in 2025, the amount of international trade is expected to decrease. We would like to derive whether this decline in volume affected the stock price of HMM, a shipping company in Korea, through this analysis
  
 
