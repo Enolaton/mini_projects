@@ -25,3 +25,9 @@
 - 주가에 영향을 줄 것으로 예상한 요소가 실제로 주가에 영향을 주었을 지 워드클라우드를 통해 확인하고, 피어슨 상관분석을 통해서 수치화
   - Using WordCloud to see if the factors we expected to affect the stock price actually affected the stock price, and analysis it through Pearson correlation analysis
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Tools|Skills|
+|---|---|
+|**Language**|Python|
+|**Processing**|Pandas, NumPy|
+|**Data Collection**|FinanceDataReader, yFinanace, Selenium|
+|**Visualization**|Matplotlib, WordCloud|
