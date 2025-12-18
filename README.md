@@ -15,7 +15,7 @@
 2. 해당 분석 구간의 뉴스 기사 제목을 웹 크롤링하고, 워드클라우드로 시각화
    -  Web-crawling the titles of the news of the specific duration and visualized it in WordCloud
 4. 주가에 영향을 줄 것으로 예상한 요소가 워드클라우드에 포함되어있는지 확인
-   - Ensure WordCloud includes what you expect to impact the stock price
+   - Ensure WordCloud includes what we expect to impact the HMM stock price
 5. 주가 데이터와 요소 데이터를 피어슨 상관분석
    - Pearson correlation analysis of stock price and factor data
   
