@@ -18,8 +18,7 @@
 
 ### 🔍 배경(Introduction: Analysis Background)
 - 2025년 들어서 보호무역주의가 전세계적으로 나타나는 만큼, 국제믈동량이 감소할 것으로 예상함. 이러한 물동량 하락이 해운사 HMM의 주가에 영향을 주었는 지, 이번 분석을 통해서 도출하고자 함
-    - As protectionism appears worldwide in 2025, the amount of international trade is expected to decrease. We would like to derive whether this decline in volume affected the stock price of HMM, a shipping company in Korea, through this analysis
-    - 
+    - As protectionism appears worldwide in 2025, the amount of international trade is expected to decrease. We would like to derive whether this decline in volume affected the stock price of HMM, a shipping company in Korea, through this analysis 
 - HMM 주가에 영향을 줄 것으로 예상되는 요소 (Factors expected to affect HMM Stock Price)
    1. 상하이 컨테이너 지수 : 상하이 수출컨테이너 운송시장의 15개 항로의 스팟 운임을 반영한 운임지수
       - SCFI (Shanghai Containerized Freight Index) : spot freight rates for containerized cargo leaving Shanghai to major global ports
