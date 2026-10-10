@@ -1,5 +1,6 @@
 # 🚢 HMM 주가 데이터 분석(HMM Stock Price Analysis)
-**프로젝트 기간 (Duration)**:  2025.11.28. ~ 2025.12.02. (5일간)
+**프로젝트 기간 (Duration)**:  2025.11.28. ~ 2025.12.02. (5d)
+
 **분석 대상 (Analysis target)** : HMM(011200)
 
 ---
